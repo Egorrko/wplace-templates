@@ -11,7 +11,7 @@
                     "py": 477
                 },
                 "name": "Москва. Логотип FreakLand",
-                "path": "/templates/nut_old.png"
+                "path": "/templates/nut.png"
             }
         },
         {
@@ -26,6 +26,20 @@
                 },
                 "name": "Москва. Текст FreakLand",
                 "path": "/templates/text.png"
+            }
+        },
+        {
+            "id": 3,
+            "label": "Москва. Новый логотип FreakLand",
+            "value": {
+                "coords": {
+                    "tx": 1238,
+                    "ty": 640,
+                    "px": 518,
+                    "py": 477
+                },
+                "name": "Москва. Новый логотип FreakLand",
+                "path": "/templates/new_nut.png"
             }
         }
     ]
