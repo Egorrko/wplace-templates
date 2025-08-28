@@ -6,12 +6,12 @@
             "value": {
                 "coords": {
                     "tx": 1238,
-                    "px": 455,
-                    "py": 465,
-                    "ty": 639
+                    "ty": 639,
+                    "px": 518,
+                    "py": 477
                 },
                 "name": "Москва. Логотип FreakLand",
-                "path": "/templates/nut.png"
+                "path": "/templates/nut_old.png"
             }
         },
         {
@@ -20,12 +20,26 @@
             "value": {
                 "coords": {
                     "tx": 1238,
+                    "ty": 640,
                     "px": 518,
-                    "py": 56,
-                    "ty": 640
+                    "py": 56
                 },
                 "name": "Москва. Текст FreakLand",
                 "path": "/templates/text.png"
+            }
+        },
+        {
+            "id": 3,
+            "label": "Москва. Красивый логотип FreakLand",
+            "value": {
+                "coords": {
+                    "tx": 1238,
+                    "ty": 639,
+                    "px": 455,
+                    "py": 465
+                },
+                "name": "Москва. Красивый логотип FreakLand",
+                "path": "/templates/nut.png"
             }
         }
     ]
