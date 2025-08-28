@@ -1,0 +1,32 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "label": "Москва. Логотип FreakLand",
+            "value": {
+                "coords": {
+                    "tx": 1238,
+                    "px": 455,
+                    "py": 465,
+                    "ty": 639
+                },
+                "name": "Москва. Логотип FreakLand",
+                "path": "/templates/nut.png"
+            }
+        },
+        {
+            "id": 2,
+            "label": "Москва. Текст FreakLand",
+            "value": {
+                "coords": {
+                    "tx": 1238,
+                    "px": 518,
+                    "py": 56,
+                    "ty": 640
+                },
+                "name": "Москва. Текст FreakLand",
+                "path": "/templates/text.png"
+            }
+        }
+    ]
+}
