@@ -4,6 +4,7 @@
             "id": 1,
             "label": "Москва. Логотип FreakLand",
             "value": {
+                "id": 1,
                 "coords": {
                     "tx": 1238,
                     "ty": 639,
@@ -18,6 +19,7 @@
             "id": 2,
             "label": "Москва. Текст FreakLand",
             "value": {
+                "id": 2,
                 "coords": {
                     "tx": 1238,
                     "ty": 640,
@@ -32,6 +34,7 @@
             "id": 3,
             "label": "Москва. Новый логотип FreakLand",
             "value": {
+                "id": 3,
                 "coords": {
                     "tx": 1238,
                     "ty": 640,
