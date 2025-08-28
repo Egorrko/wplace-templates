@@ -27,20 +27,6 @@
                 "name": "Москва. Текст FreakLand",
                 "path": "/templates/text.png"
             }
-        },
-        {
-            "id": 3,
-            "label": "Москва. Красивый логотип FreakLand",
-            "value": {
-                "coords": {
-                    "tx": 1238,
-                    "ty": 639,
-                    "px": 455,
-                    "py": 465
-                },
-                "name": "Москва. Красивый логотип FreakLand",
-                "path": "/templates/nut.png"
-            }
         }
     ]
 }
